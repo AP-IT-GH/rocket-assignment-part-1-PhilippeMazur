@@ -7,7 +7,7 @@ public class Fly : MonoBehaviour
 
     private float speed = 50f;
     private float FloatStrenght = 170f;
-    private float FloatStrenght2 = 30f;
+    private float FloatStrenght2 = 3f;
 
     private float inputX;
     public Rigidbody RocketBody;
